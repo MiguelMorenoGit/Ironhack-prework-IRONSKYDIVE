@@ -55,8 +55,9 @@ h5 {
 }
 
 .nav-bar-ul {
-  width: 1200px;
+  width: 100%;
   margin: 0px;
+  
 }
 
 .nav-bar-li {
